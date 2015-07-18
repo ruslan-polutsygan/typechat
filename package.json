@@ -1,0 +1,17 @@
+{
+  "name": "typechat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruslan Polutsygan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.1",
+    "gulp-typescript": "~2.7.8",
+    "gulp": "~3.9.0",
+    "gulp-nodemon": "~2.0.3"
+  }
+}
